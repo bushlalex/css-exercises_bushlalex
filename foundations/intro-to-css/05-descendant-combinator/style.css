@@ -1,6 +1,8 @@
-.container .text {
-    background: yellow;
+#parent {
+    color: green;
+    background: black;
+}
+.child {
     color: red;
-    font-size: 20px;
-    text-align: center;
+    
 }
